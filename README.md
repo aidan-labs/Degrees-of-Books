@@ -1,10 +1,10 @@
 # Degrees of Books
 
-Find the shortest path between any two books through their similar books connections via the Goodreads book dataset.
+Find the shortest path between any two books through their similar books connections via the Goodreads books dataset.
 
 ## About
 
-This project visualizes the connection network between books using data from Goodreads. Each book is a node that connects to other "similar" books as determined by the Goodreads dataset (subjective from users), creating network graph.
+This project visualizes the connection network between books using data from the Goodreads books dataset. Each book is a node that connects to other "similar" books as determined by the Goodreads dataset (subjective from users), creating network graph.
 
 The graph structure includes:
 - **Multiple connections per node** - books link to several similar books
