@@ -4,7 +4,7 @@ Find the shortest path between any two books through their similar books connect
 
 ## About
 
-This project visualizes the connection network between books using data from the Goodreads books dataset. Each book is a node that connects to other "similar" books as determined by the Goodreads dataset (subjective from users), creating network graph.
+This project visualizes the connection network between books using data from the Goodreads books dataset. Each book is a node that connects to other "similar" books as determined by the Goodreads dataset (subjective from users), creating a network graph.
 
 The graph structure includes:
 - **Multiple connections per node** - books link to several similar books
